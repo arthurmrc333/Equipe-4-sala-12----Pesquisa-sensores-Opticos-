@@ -9,8 +9,17 @@ Sensores ópticos detectam e medem a luz ou radiação eletromagnética em difer
 1. Princípio Físico
 
 A luz atravessa um material transparente. Em alguns casos, a intensidade da luz que atravessa pode ser usada para inferir informações sobre a concentração de uma substância ou o tipo de material. A luz é refletida por uma superfície. A quantidade de luz refletida depende do material e da sua forma. A reflexão é usada em sensores para detectar a presença de objetos, medir distâncias ou identificar cores. 
+Exemplos:
+Sensores de proximidade:
+Detectam a presença de objetos ao medir a quantidade de luz refletida ou absorvida. 
+Sensores de cor:
+Medem a cor de um objeto ao analisar o espectro de luz refletido. 
+Sensores de distância:
+Medem a distância de um objeto utilizando a técnica de triangulação de luz ou tempo de voo da luz. 
+Sensores de temperatura:
+Medem a temperatura ao analisarem o espectro de luz emitida ou absorvida por um material. 
 
-➢Aplicações na índustria
+3.Aplicações na índustria
 
 -Os sensores ópticos, que utilizam luz para detectar presença, distância ou outros parâmetros, têm diversas aplicações na indústria, desde o controle de produção e detecção de falhas até o monitoramento de processos e a garantia de qualidade.As aplicações de sensores industriais vão desde a medição de oxigênio até codificadores ópticos industriais e relógios atômicos.
 
@@ -21,3 +30,4 @@ A luz atravessa um material transparente. Em alguns casos, a intensidade da luz 
 -Detectar se há alguma etiqueta faltando ou mal posicionada;
 
 -Também pode verificar se o nível do líquido dentro da embalagem está correto, usando sensores que detectam a diferença de transparência ou cor;
+
