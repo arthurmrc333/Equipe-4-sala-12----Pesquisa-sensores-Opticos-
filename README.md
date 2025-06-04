@@ -19,6 +19,8 @@ Medem a distância de um objeto utilizando a técnica de triangulação de luz o
 Sensores de temperatura:
 Medem a temperatura ao analisarem o espectro de luz emitida ou absorvida por um material. 
 
+2. Funcionamento
+
 3.Aplicações na índustria
 
 -Os sensores ópticos, que utilizam luz para detectar presença, distância ou outros parâmetros, têm diversas aplicações na indústria, desde o controle de produção e detecção de falhas até o monitoramento de processos e a garantia de qualidade.As aplicações de sensores industriais vão desde a medição de oxigênio até codificadores ópticos industriais e relógios atômicos.
