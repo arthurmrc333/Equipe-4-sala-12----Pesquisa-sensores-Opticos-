@@ -20,6 +20,8 @@ Sensores de temperatura:
 Medem a temperatura ao analisarem o espectro de luz emitida ou absorvida por um material. 
 
 2. Funcionamento
+-Funciona emitindo um feixe de luz, que pode ser infravermelho,laser ou luz visível, e detectando mudanças de luz que retorna ou é interrompida por um objeto.Essa mudança na luz é então convertida em um sinal elétrico, indicndo a presença ou características do objeto.
+   
 
 3.Aplicações na índustria
 
